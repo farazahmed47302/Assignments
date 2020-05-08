@@ -1,0 +1,174 @@
+body{
+    background-color: #F7F8FA;
+}
+h4{
+    background-color: #316DC3;
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto;   
+}
+.logos{
+    width: 20px;
+    height: 20px;     
+}
+.navul li{
+    display: inline-block;
+    margin: 5px;
+    
+}
+.navul{
+    position: relative;
+    left: 450px;
+    bottom: 50px;
+}
+.saylani-logo{
+    width: 200px;
+    height: 50px;
+    position: relative;
+    right: 320px;
+}
+.buttons{
+   margin-left: 30px;
+}
+.main-intro{
+    background-color: #F7F8FA;  
+}
+.headline{
+    background-color: #316DC3;
+    color: white;
+    padding: 8px;
+    bottom: 50px;
+}
+.introduction{
+    font-family: 'Merriweather', serif;
+    font-size: 40px;
+    margin-top: 50px;
+}
+.intro{
+    color: #316DC3;
+}
+.duction{
+    color: #427900;
+}
+.parag{
+    text-align: justify;
+    font-size: 17px;
+    margin: 10px 200px 10px 200px;
+    opacity: 60%;
+    line-height: 30px;
+}
+.whatwearedoing{ 
+    font-family: 'Merriweather', serif; 
+    font-size: 40px;
+    margin-top: 50px;
+}
+.whatwe{
+    color: #316DC3;
+}
+.aredoing{
+    color: #427900;
+}
+.image-row1,.image-row2{
+    text-align: center;
+    margin: 20px;
+}
+.image-row1class{
+    margin: 10px;
+    box-shadow: 0 0 10px -2px grey;
+}
+.image-row{
+    background-color: #F7F8FA;
+    height: 630px;
+}  
+.angoor{
+    left: 370px;
+}
+.missions{
+    position: relative;
+    left: 60px;
+}
+.mission-heading{
+    font-family: 'Merriweather', serif;
+    margin: 60px 0px 60px 0px;
+    color: #316DC3;
+    display: inline-block;
+    position: relative;
+    left: 115px;
+}
+.miscont{
+    position: relative;
+    right: 55px;
+}
+.imagegallery{
+    font-family: 'Merriweather', serif; 
+    font-size: 40px;
+    margin-top: 50px;
+}
+.image{
+    color: #316DC3;
+}
+.gallery{
+    color: #427900;
+}
+.gallimages{
+    width: 200px;
+    margin-right: 4px;
+}
+.galldiv{
+    position: relative;
+    left: 160px;
+    top: 30px;
+    margin-bottom: 170px;
+}
+.footer-first {
+    width: 100%;
+    height: 350px;
+    background-color: #25272E;
+    color: white;
+    
+}
+.footer-first-inside{
+    position: relative;
+    left: 100px;
+    top: 80px;
+}
+.foo-fir{
+    color: #bbb;
+    display: inline-block;
+}
+.contacts{
+    color: #bbb;
+}
+.connect{
+    font-family: 'Merriweather', serif;
+    font-size: large;
+    position: relative;
+    left: 900px;
+    bottom: 150px;
+    display: inline-block;
+}
+.footer-second{
+    width: 100%;
+    height: 40px;
+    background-color: #316DD9;
+    color: white;
+    font-size: smaller;
+}
+.foo-sec{
+    display: inline-block;
+    position: relative;
+    left: 110px;
+    top: 10px;
+}
+.icons-colour{
+    color: #427900;
+}
+.iconsli{
+    float: left;
+    margin: 5px;
+}
+.iconsul{
+    position: relative;
+    left: 930px;
+    bottom: 150px;
+}
